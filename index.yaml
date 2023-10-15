@@ -3,12 +3,12 @@ entries:
   kwon:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-15T04:53:22.825087599Z"
+    created: "2023-10-15T05:02:54.362788942Z"
     description: A Helm chart for Kubernetes
-    digest: 6c30b1fd5ca0766c05dfa1c90363876b88846c9528f1e3c271a3d8fb3f5d3ae5
+    digest: 376fdacb766f5a64c427234da2dc183c6dff1f06813c3ac9e2db8d2dd5bc7009
     name: kwon
     type: application
     urls:
     - https://tnsdyd.github.io/tnsdyd/test/kwon-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-15T04:53:22.824687682Z"
+generated: "2023-10-15T05:02:54.362361561Z"
